@@ -37,7 +37,6 @@
     <nav class="nav bg-danger justify-content-center sizee text-white">
         <a class="text-white py-4 px-4" href="/">Home</a>
         <a class="text-white py-4 px-5" href="/cart/list">Cart</a>
-        <a class="text-white py-4 px-4" href="https://avex.jp/aaa/">aaa</a>
     </nav>
 </div>
 </nav>
